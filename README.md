@@ -6,7 +6,7 @@
 
 ### sudo apt-get install figlet
 
-### cd HAKDAD-DDoS
+### cd HAKDAD-DDOS
 
 ### chmod +x hakdad-ddos.py
 
