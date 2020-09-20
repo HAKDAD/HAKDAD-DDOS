@@ -5,7 +5,7 @@
 
 ### git clone https://github.com/HAKDAD/HAKDAD-DDOS
 
-### cd HAKDAD-DDoS
+### cd HAKDAD-DDOS
 
 ### chmod +x set-up.py
 
