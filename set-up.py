@@ -13,7 +13,7 @@ os.system("clear")
 #dependencies and updates
 os.system("toilet -f big ' ....installing....' -F gay | lolcat")
 
-print "----INSTALLING DEPENDENCIES----"
+print ("----INSTALLING DEPENDENCIES----")
 print "                          "
 
 
