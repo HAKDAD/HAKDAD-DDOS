@@ -31,3 +31,5 @@ print "                                  "
 print "########(: if you got error in installing dependencies pls run as root:) #########"
 
 time.sleep(3)
+
+print "########(: installed ..........now u can run by using command python hakdad-ddos.py :) #########"
