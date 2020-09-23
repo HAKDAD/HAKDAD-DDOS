@@ -3,6 +3,8 @@
 ##############################################################################################
 ### Download & Install:-
 
+
+
 ### git clone https://github.com/HAKDAD/HAKDAD-DDOS
 
 ### cd HAKDAD-DDOS
@@ -11,9 +13,9 @@
 
 ### chmod +x hakdad-ddos.py
 
-### python set-up.py
+### python2 set-up.py
 
-### python hakdad-ddos.py
+### python2 hakdad-ddos.py
 
 ----- By HAKDAD -----
 #############################################################################################
