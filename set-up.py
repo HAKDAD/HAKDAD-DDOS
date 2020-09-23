@@ -20,7 +20,8 @@ print "                          "
 app = ("install")
 
 subprocess.call(["apt", "update"])
-
+subprocess.call(["apt", app, "python"])
+subprocess.call(["apt", app, "python2"])
 subprocess.call(["apt", app, "figlet"])
 
 time.sleep(3)
