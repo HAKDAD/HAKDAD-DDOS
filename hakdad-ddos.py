@@ -28,7 +28,7 @@ def signal_handler(signal, frame):
 
 signal.signal(signal.SIGINT, signal_handler)
 if signal:
-       print " goood....byeee..."
+       print " goood....day..."
 ########################################
 
 
