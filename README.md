@@ -25,7 +25,7 @@ For more hacking tools , hacking videos and series
 JUST SUBSCRIBE TO MY YOUTUBE CHANNEL
 - https://www.youtube.com/channel/UCzWEnYKEgPQN6t4Kjh4VvgQ
 ----------------------------------------------------------------------------------------------
-MY INSTAGRAM --- Mr_kali_hacker_7723
+MY INSTAGRAM --- Mr_kali_hacker
 ----------------------------------------------------------------------------------------------
 
 #############################################################################################
