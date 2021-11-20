@@ -42,7 +42,7 @@ os.system("figlet /\/\/\/\/\/\/\/\/\/\/\/\/\/////////////////")
 print
 print (" Author NAME      :   VAMSI")
 print (" YOUTUBE CHANNEL  :   HAKDAD")
-print (" INSTAGRAM ID     :   Mr_kali_hacker_7723")
+print (" INSTAGRAM ID     :   Mr_kali_hacker")
 print
 ip = raw_input("\033[94m[*] \033[91mPLEASE \033[91mENTER THE IP ADDRESS (or) Hostname of Target : \033[97m>>> \033[93m")
 port = input("\033[94m[*] \033[91mPLEASE \033[91mENTER THE PORT                                 : \033[97m>>> \033[93m")
